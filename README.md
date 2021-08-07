@@ -8,11 +8,14 @@ Link to the project [Case Converter](https://hyperskill.org/projects/193).
 ![CaseConverter](https://user-images.githubusercontent.com/63540951/128593552-b053d8b1-c82b-40fb-8bf1-05600e33a698.gif)
 
 ## Stages
-**Stage 1/3: The converter**\
-Design the application page. Create the textarea element, buttons, and styles.
+**Stage 1/4: Everyone's a designer these days**\
+Design your to-do list web page. Set CSS styles to make it neat.
 
-**Stage 2/3: Upper or lower**\
-Add handlers for button and change the text case accordingly.
+**Stage 2/4: New tasks**\
+Add new tasks to the list and remove them if they are no longer needed.
 
-**Stage 3/3: Save me**\
-Save the edited text as a .txt file. Generate and download it in the browser.
+**Stage 3/4: Job's done**\
+Work with checkboxes to mark tasks as complete and manage dynamic styles.
+
+**Stage 4/4: Keep in memory**\
+Store tasks in the local storage to keep them when the page is reloaded.
